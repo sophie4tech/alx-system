@@ -1,0 +1,2 @@
+#!/bin/bash
+find . 4-empty -printf "%f\n"
