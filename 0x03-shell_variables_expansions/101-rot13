@@ -1,0 +1,2 @@
+#!/bin/bash
+cat -n | cut -c6- | grep -vp "[∅2468]\t" | cut -f2
